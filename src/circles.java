@@ -28,7 +28,8 @@ public class circles extends shapes {
 
         @Override
         public int area(int area){
-            return 2;
+            System.out.println("Override Example:");
+            return 2; 
         }
 
 
